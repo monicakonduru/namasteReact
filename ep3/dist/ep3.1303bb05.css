@@ -1,2 +1,10 @@
+@keyframes shimmer-slow {
+  0% {
+    background-position: -300% 0;
+  }
 
+  100% {
+    background-position: 300% 0;
+  }
+}
 /*# sourceMappingURL=ep3.1303bb05.css.map */

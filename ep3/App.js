@@ -1,25 +1,21 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import SwiggyFooter from "./Footer";
+import Navbar from "./Navbar";
+import BodyComponent from "./Body";
 
-//Element
-const heading = (<h1 id="heading">Namaste React with JSX!</h1>)
-
-//Component
-const Body = () => {
-    return (
-        <div>
-            {heading}
-            <h1>Hello from the Body component!</h1>
-            <p>This is some JSX content inside the Body.</p>
-            <button>Click Me</button>
-            {
-                //Using js inside jsx
-                <h1>Performing calculation using js (5+2): {5+2}</h1>
-            }
+const Body = () => (
+    <div>
+        <Navbar />
+        <div className="container px-4 px-md-5 mt-4">
+            <div className="mt-4">
+                <BodyComponent />
+            </div>
         </div>
-    );
-}
-
+        <SwiggyFooter />
+    </div>
+);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Body />);

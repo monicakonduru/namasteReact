@@ -1,1 +1,1 @@
-{"mappings":"","sources":[],"sourcesContent":[],"names":[],"version":3,"file":"ep3.1303bb05.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA","sources":["styles.css"],"sourcesContent":["@keyframes shimmer-slow {\r\n  0% {\r\n    background-position: -300% 0;\r\n  }\r\n  100% {\r\n    background-position: 300% 0;\r\n  }\r\n}\r\n"],"names":[],"version":3,"file":"ep3.1303bb05.css.map","sourceRoot":"/__parcel_source_root/"}

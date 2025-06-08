@@ -1,0 +1,61 @@
+/* Navbar.css */
+.nav-link-hover {
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.nav-link-hover:hover {
+    color: #f2711c;
+}
+
+.dropdown-arrow {
+    font-size: 1rem;
+    color: #f2711c;
+    transition: transform 0.2s ease;
+}
+
+.nav-icon {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.badge-label {
+    color: #fabb05;
+    font-size: 0.6rem;
+    font-weight: 600;
+    position: absolute;
+    top: -0.6rem;
+    right: -1.2rem;
+}
+
+.location-panel {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 300px;
+    height: 100vh;
+    background-color: white;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    transition: right 0.3s ease;
+    z-index: 1050;
+    padding: 1rem;
+}
+
+.location-panel.open {
+    right: 0;
+}
+
+.panel-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}

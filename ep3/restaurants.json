@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Theobroma",
+    "rating": 4.6,
+    "time": "10-15 mins",
+    "cuisines": ["Desserts", "Bakery", "Beverages"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/9/721f931b-39af-4c3b-9fb6-b6e7fb2871c3_426776.jpg"
+  },
+  {
+    "name": "Chinese Wok",
+    "rating": 4.2,
+    "time": "30-35 mins",
+    "cuisines": ["Chinese", "Asian", "Tibetan", "Desserts"],
+    "areaName": "Adugodi",
+    "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597"
+  },
+  {
+    "name": "KFC",
+    "rating": 4.3,
+    "time": "15-20 mins",
+    "cuisines": ["Burgers", "Fast Food", "Rolls & Wraps"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/377e9327-3ca7-48ac-b36c-96f5bf6e186a_671928.JPG"
+  },
+  {
+    "name": "Wow! Momo",
+    "rating": 4.4,
+    "time": "15-20 mins",
+    "cuisines": ["Momos", "Chinese", "fastfood", "Asian", "Beverages"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/21/98c49b09-25cd-4089-8897-a44d0d9e582f_496613.jpg"
+  },
+  {
+    "name": "McDonald's",
+    "rating": 4.5,
+    "time": "15-20 mins",
+    "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/3/566bfcc0-c4f0-4d1b-816c-45405033b9fb_23678 - Copy (10).jpg"
+  },
+  {
+    "name": "Pizza Hut",
+    "rating": 4.2,
+    "time": "20-25 mins",
+    "cuisines": ["Pizzas"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/22/20e5816c-78d5-4a1a-bf5f-cd94b7788ab7_10582.JPG"
+  },
+  {
+    "name": "Burger King",
+    "rating": 4.3,
+    "time": "15-20 mins",
+    "cuisines": ["Burgers", "American"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/24/6c37bd85-e460-4f35-9a27-ea97d88f4e3a_5934.jpg"
+  },
+  {
+    "name": "Bakingo",
+    "rating": 4.6,
+    "time": "25-30 mins",
+    "cuisines": ["Bakery", "Desserts", "Beverages", "Snacks"],
+    "areaName": "BTM Layout",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/15/4424a010-cce8-4b9b-9b0a-6b4e43dcf306_590119.jpg"
+  },
+  {
+    "name": "California Burrito",
+    "rating": 4.6,
+    "time": "10-15 mins",
+    "cuisines": [
+      "Mexican",
+      "American",
+      "Salads",
+      "Continental",
+      "Keto",
+      "Healthy Food",
+      "Beverages",
+      "Snacks",
+      "Desserts",
+      "Fast Food"
+    ],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/3/0e28a355-210c-4fe3-9d60-596c7fc89ec6_10820.jpg"
+  },
+  {
+    "name": "Olio - The Wood Fired Pizzeria",
+    "rating": 4.2,
+    "time": "30-35 mins",
+    "cuisines": [
+      "Pizzas",
+      "Pastas",
+      "Italian",
+      "Fast Food",
+      "Snacks",
+      "Beverages",
+      "Desserts"
+    ],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/2/b494edd6-e53f-49a2-a57b-a23867cd5fd5_596949.jpg"
+  },
+  {
+    "name": "NIC Ice Creams",
+    "rating": 4.8,
+    "time": "15-20 mins",
+    "cuisines": ["Ice Cream", "Desserts"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/10/8bdab243-cdea-48b6-b01e-5b2229208339_78511.JPG"
+  },
+  {
+    "name": "Leon's - Burgers & Wings (Leon Grill)",
+    "rating": 4.5,
+    "time": "25-30 mins",
+    "cuisines": ["American", "Snacks", "Turkish", "Portuguese", "Continental"],
+    "areaName": "Koramangala",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/14/33bfb682-d5fa-4054-9e2c-31911e34ebf6_65797.jpg"
+  }
+]

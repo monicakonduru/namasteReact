@@ -1,0 +1,40 @@
+.location-panel {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  height: 100vh;
+  width: 300px;
+  background-color: white;
+  z-index: 1050;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+  transition: left 0.3s ease;
+  padding: 1rem;
+}
+
+.location-panel.open {
+  left: 0;
+}
+
+.panel-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+}
+
+.panel-body {
+  margin-top: 1rem;
+}
+
+.location-box {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.location-box:hover {
+  background-color: #f9f9f9;
+}
