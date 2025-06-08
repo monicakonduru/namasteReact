@@ -35,11 +35,11 @@
 117C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-regular-svg-icons\faHourglassHalf.d.ts133938505773482890 0
 83C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\semver\functions\lt.js133937875821392875 0
 106C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faUnlock.js133938505848320945 0
-58C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\.gitignore133937876902788309 0
+58C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\.gitignore133938633641570802 0
 92C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@swc\helpers\src\_ts_values.mjs133937875844551215 0
 88C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\bootstrap\js\src\tooltip.js133938488582498653 0
 66C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@lmdb133938564797534737 1
-55C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\Body.js133938614662781789 0
+55C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\Body.js133938615551806423 0
 108C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\caniuse-lite\data\features\namevalue-storage.js133937875848651817 0
 111C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faToggleOff.d.ts133938505899386406 0
 106C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\caniuse-lite\data\features\matchesselector.js133937875847206262 0
@@ -65,7 +65,7 @@
 110C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faUnsorted.d.ts133938505901693098 0
 67C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\braces133937878735137518 1
 92C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\caniuse-lite\data\regions\BA.js133937875825560434 0
-52C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist133938614665411271 1
+52C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist133938634386381624 1
 112C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-regular-svg-icons\faEnvelope.d.ts133938505771279498 0
 58C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\index.html133938506905017288 0
 110C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faChildDress.js133938505821505552 0
@@ -562,7 +562,7 @@
 105C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faAngry.js133938505814599989 0
 75C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\weak-lru-cache133937878757905969 1
 88C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\react-icons\fc\package.json133938564769987413 0
-68C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist\ep3.cb65f72e.js133938614665047731 0
+68C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist\ep3.cb65f72e.js133938634386248422 0
 92C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@swc\helpers\cjs\_using_ctx.cjs133937875828322008 0
 105C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faLaugh.js133938505833184016 0
 81C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\safe-buffer\index.js133937875809732089 0
@@ -2081,7 +2081,7 @@
 87C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\picocolors\picocolors.d.ts133937875815416899 0
 94C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\postcss-value-parser\lib\parse.js133937875811277566 0
 111C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faChartSimple.js133938505820940876 0
-72C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist\ep3.cb65f72e.js.map133938614665375758 0
+72C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\dist\ep3.cb65f72e.js.map133938634386372018 0
 111C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@fortawesome\free-solid-svg-icons\faWandMagic.d.ts133938505904082180 0
 118C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133937875823413647 0
 74C:\Users\DELL\OneDrive\Desktop\namasteReact\ep3\node_modules\picomatch\lib133937878790219442 1

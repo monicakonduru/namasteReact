@@ -160,11 +160,11 @@
       });
     }
   }
-})({"fLEvr":[function(require,module,exports,__globalThis) {
+})({"icAAj":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 51197;
+var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -51899,6 +51899,6 @@ var DefaultContext = {
 };
 var IconContext = (0, _reactDefault.default).createContext && /*#__PURE__*/ (0, _reactDefault.default).createContext(DefaultContext);
 
-},{"react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"aFc2y":[function() {},{}]},["fLEvr","blcJa"], "blcJa", "parcelRequiree1f4", {}, null, null, "http://localhost:51197")
+},{"react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"aFc2y":[function() {},{}]},["icAAj","blcJa"], "blcJa", "parcelRequiree1f4", {}, null, null, "http://localhost:1234")
 
 //# sourceMappingURL=ep3.cb65f72e.js.map
