@@ -1,21 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Essential Meta Tags -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Namaste React</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script
-      crossorigin
-      src="https://unpkg.com/react@18/umd/react.development.js"
-    ></script>
-    <script
-      crossorigin
-      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
-    ></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="description" content="A modern React web app built with CDN links." />
+    <meta name="author" content="Monica Konduru" />
+    <meta name="keywords" content="React, JavaScript, Web Development, Namaste React" />
 
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:title" content="Namaste React App" />
+    <meta property="og:description" content="Learning React with CDN in a fancy HTML setup!" />
+    <meta property="og:image" content="https://your-image-url.com/preview.jpg" />
+    <meta property="og:url" content="https://your-website.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Title & Favicon -->
+    <title>🌸 Namaste React 🌸</title>
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
+
+    <!-- Fonts & Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+      }
+
+      body {
+        background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #333;
+      }
+
+      #root {
+        background: white;
+        padding: 2rem;
+        border-radius: 1rem;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+        width: 90%;
+        max-width: 600px;
+        text-align: center;
+      }
+    </style>
+
+    <!-- React & ReactDOM via CDN -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  </head>
+
+  <body>
+    <div id="root">Loading React App...</div>
+
+    <!-- Your App Logic -->
     <script src="App.js"></script>
   </body>
 </html>
